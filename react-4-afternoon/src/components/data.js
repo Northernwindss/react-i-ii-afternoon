@@ -1,4 +1,7 @@
-const data = [
+import React, { Component } from 'react';
+
+
+const Data = [
   {
     id: 1,
     name: { first: "Waylin", last: "Lumsdon" },
@@ -286,4 +289,4 @@ const data = [
   }
 ];
 
-export default data;
+export default Data;
